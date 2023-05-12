@@ -1,4 +1,6 @@
 .DS_Store
+rnaseq/*
+src/notebooks/.ipynb_checkpoints/*
 
 # History files
 .Rhistory
