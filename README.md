@@ -1,13 +1,13 @@
 # gro-crispri-ctcf
 
 This repo contains the code to analyze and generate the plots seen in [Multi-locus CRISPRi targeting with a single truncated guide RNA](https://www.biorxiv.org/content/10.1101/2023.10.20.563306v1.article-metrics).
-<br> To get started, clone the repo. There are jupyter notebooks that contain the code libraries and GEO data accessions to generate the plots.
-Users will need to install jupyter notebook using `pip install notebook`
+<br><br> To get started, clone the repo. There are jupyter notebooks that contain the code libraries and GEO data accessions to generate the plots.
+Users will need to install jupyter notebook using `pip install notebook`. 
 
-## clone repo
+## Clone repo
 `gh repo clone broadinstitute/gro-crispri-ctcf`
 
-## description
+## Descriptions
 - `00_rnaseq_sg4_dream.ipynb` - RNA-seq analysis of sg4 in Jurkat cells
 - `01_rnaseq_sg8_dream.ipynb` - RNA-seq analysis of sg8 in Jurkat cells
 - `02_rnaseq_sgCD81_dream.ipynb` - RNA-seq analysis of sgCD81 in a375 cells
