@@ -1,9 +1,0 @@
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR82.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR83.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR97.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR87.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR86.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR95.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR96.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR84.h5
-gs://sw-gro-crispri-ctcf/rnaseq/sg4/MR85.h5
