@@ -1,7 +1,7 @@
 # gro-crispri-ctcf
 
 This repo contains the code to analyze and generate the plots seen in "Multi-locus CRISPRi targeting with a single truncated guide RNA".
-To get started, clone the repo. There are jupyter notebooks that contain the code libraries and GEO data accessions to generate the plots.
+<br> To get started, clone the repo. There are jupyter notebooks that contain the code libraries and GEO data accessions to generate the plots.
 Users will need to install jupyter notebook using `pip install notebook`
 
 ## clone repo
