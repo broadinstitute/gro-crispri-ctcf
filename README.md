@@ -18,7 +18,7 @@ Each notebook contains install commands for R packages required for execution.
 - `04-chipseq-sg4-h3k9me3-expected-sites.ipynb` - ChIP-seq H3K9me3 analysis at sg4 perfect match sites in Jurkat cells
 - `05-chipseq-sg4-ctcf-dream.ipynb` - ChIP-seq CTCF differential analysis at ~880 putative CTCF binding sites in Jurkat cells using sg4
 - `06-chipseq-sg4-ctcf-motif.ipynb` - ChIP-seq CTCF motif analysis at sg4 significant sites
-- `07-chipseq-sg4-profile-maps.ipynb` - ChIP-seq CTCF and H3K9me3 profile heatmaps at sg4 perfect match sites
+- `07-chipseq-sg4-profile-maps.ipynb` - ChIP-seq CTCF, H3K9me3 and dCas9 profile heatmaps at sg4 perfect match sites
 - `08-chipseq-sg8-ctcf-expected-sites.ipynb` - ChIP-seq CTCF analysis at sg8 perfect match sites in Jurkat cells
 - `09-chipseq-sg8-h3k9me3-expected-sites.ipynb` - ChIP-seq H3K9me3 analysis at sg8 perfect match sites in Jurkat cells
 - `10-chipseq-sg8-ctcf-dream.ipynb` - ChIP-seq CTCF differential analysis at ~880 putative CTCF binding sites in Jurkat cells using sg8
