@@ -23,3 +23,9 @@ Each notebook contains install commands for R packages required for execution.
 - `09-chipseq-sg8-h3k9me3-expected-sites.ipynb` - ChIP-seq H3K9me3 analysis at sg8 perfect match sites in Jurkat cells
 - `10-chipseq-sg8-ctcf-dream.ipynb` - ChIP-seq CTCF differential analysis at ~880 putative CTCF binding sites in Jurkat cells using sg8
 - `11-chipseq-sg8-ctcf-motif.ipynb` - ChIP-seq CTCF motif analysis at sg8 significant sites
+- `12-chipseq-sg4-ctcf-partial-match-analysis.ipynb` - ChIP-seq CTCF motif analysis at sg4 partial match sites
+
+## Accompanying scripts in R and python folders
+- `filter_motif_by_pam.py` - Extract list of TF Motifs with NGG PAM
+- `print_jaspar_motifs.R` - Create document of printed TF Motifs
+- `tf-get-accession.py` - Extract ENCODE accessions given list of TFs
